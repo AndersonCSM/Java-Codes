@@ -1,4 +1,3 @@
-# English
 ## About
 Projects and exercises in the Java programming language. The projects come from the course, materials, handouts and activities proposed during my graduation, separated into levels of complexity:
 - Basic;
