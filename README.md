@@ -9,7 +9,7 @@ Projects and exercises in the Java programming language. The projects come from 
 - Netbeans.
 
 ## Contact
-- Social networks:https://github.com/AndersonCSM
+- Social networks: https://github.com/AndersonCSM
 - Contact email: andersoncarlos799@gmail.com
 
 ---
@@ -25,7 +25,7 @@ Projetos e exercícios na linguagem de programação Java. Os projetos vêm de c
 - Netbeans.
 
 ## Contato
-- Redes sociais:https://github.com/AndersonCSM
+- Redes sociais: https://github.com/AndersonCSM
 - email de contato: andersoncarlos799@gmail.com
 
 ---
