@@ -13,7 +13,6 @@ Projects and exercises in the Java programming language. The projects come from 
 - Contact email: andersoncarlos799@gmail.com
 
 ---
-# Português Brasil
 ## Sobre
 Projetos e exercícios na linguagem de programação Java. Os projetos vêm de curso, materiais, apostilas e de atividades propostas durante minha graduação, separados em níveis de complexidade:
 - Básico;
